@@ -2,7 +2,7 @@ from helper import add_owner, add_property, list_all_owners, list_all_properties
 
 
 def display_menu():
-    print("\nWelcome to LandPro, a Property Management System")
+    print("\nWelcome to Landmax, a Property Management System")
     print("1. Manage Owners")
     print("2. Manage Properties")
     print("3. Tax assessment Manager")
